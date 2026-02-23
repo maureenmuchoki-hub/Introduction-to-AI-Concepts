@@ -13,10 +13,36 @@ A collaborative guide by Maureen Muchoki, Stephene Njuguna,
 Artificial Intelligence (AI) is transforming every industry. This guide introduces key AI concepts that every student should know. Each section is contributed by a different team member.
 
 ## Machine Learning
-<!-- [Maureen Muchoki] **Machine Learning (ML)** allows computers to learn from data and improve over time without being explicitly programmed --> 
+<!-- [Team Member 1 Name] will write this section --> 
 
 ### Why It Matters
-<!-- [Team Member 3 Name] will write this section --> 
+
 
 ### Getting Started
-<!-- [XXX] will write this section --> 
+
+
+## Neural Networks
+<!-- [Team Member 2 Name] will write this section -->
+
+### Key Points
+
+
+### Resources
+
+## Natural Language Processing (NLP)
+<!-- [Team Member 2 Name] will write this section -->
+
+### Applications
+
+### Tools to Explore
+
+## Computer Vision
+<!-- [Team Member 3 Name] will write this section -->
+
+### Examples
+
+### Getting Started
+
+## Conclusion
+
+**AI** is a vast field with many exciting concepts. By exploring ML, Neural Networks, NLP, and Computer Vision, students gain foundational knowledge for future tech careers. This project also demonstrates collaborative workflow on GitHub using branches, commits, and pull requests.
