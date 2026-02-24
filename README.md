@@ -43,7 +43,8 @@ A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi.
 [Neural Network Basics](https://www.deeplearning.ai/)
 
 ## Natural Language Processing (NLP)
-[Michael Mwangi] will write this section -->
+[Michael Mwangi] will write this section -->Natural Language Processing (NLP)
+*NLP* stands for Natural Language Processing. It's a field of AI that deals with how computer understand, interpret and generate human language
 
 ### Applications
 - Chatbots (like ChatGPT)
