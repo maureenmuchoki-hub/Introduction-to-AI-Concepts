@@ -13,7 +13,8 @@ A collaborative guide by Maureen Muchoki, Stephene,
 Artificial Intelligence (AI) is transforming every industry. This guide introduces key AI concepts that every student should know. Each section is contributed by a different team member.
 
 ## Machine Learning
-[Maureen Muchoki] will write this section --> 
+[Maureen Muchoki] 
+**Machine Learning (ML)** allows computers to learn from data and improve over time without being explicitly programmed. 
 
 ### Why It Matters
 
@@ -30,14 +31,14 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 ### Resources
 
 ## Natural Language Processing (NLP)
-<!-- [Team Member 2 Name] will write this section -->
+[Team Member 3 Name] will write this section -->
 
 ### Applications
 
 ### Tools to Explore
 
 ## Computer Vision
-<!-- [Team Member 3 Name] will write this section -->
+[Team Member 4 Name] will write this section -->
 
 ### Examples
 
