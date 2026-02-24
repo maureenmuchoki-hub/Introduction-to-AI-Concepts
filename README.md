@@ -10,7 +10,7 @@ A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi.
 - [Computer Vision](#computer-vision)
 
 ## Introduction
-Artificial Intelligence (AI) is transforming every industry. This guide introduces key AI concepts that every student should know. Each section is contributed by a different team member.
+*Artificial Intelligence (AI)* is transforming every industry. This guide introduces key AI concepts that every student should know. Each section is contributed by a different team member.
 
 ## Machine Learning
 [Maureen Muchoki] 
