@@ -57,6 +57,9 @@ A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi.
 - Object detection
 
 ### Getting Started
+- OpenCV: library for image processing
+- TensorFlow/Keras: build image classification models
+- Kaggle datasets: practice with real-world images
 
 ## Conclusion
 
