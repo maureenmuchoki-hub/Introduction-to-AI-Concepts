@@ -1,6 +1,6 @@
 # Introduction to AI Concepts
 
-A collaborative guide by Maureen Muchoki, Stephene and Michael Mwangi 
+A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi. 
 
 ## Table of Contents
 - [Introduction](#introduction)
