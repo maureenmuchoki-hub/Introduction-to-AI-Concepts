@@ -46,6 +46,11 @@ A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi.
 [Michael Mwangi] will write this section -->
 
 ### Applications
+- Chatbots (like ChatGPT)
+- Sentiment analysis
+- Language translation
+- Text summarization
+- Named Entity Recognition (NER)
 
 ### Tools to Explore
 - spaCy: industrial-strength NLP
