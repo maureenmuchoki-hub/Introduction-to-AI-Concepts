@@ -1,6 +1,6 @@
 # Introduction to AI Concepts
 
-A collaborative guide by Maureen Muchoki, Stephene, 
+A collaborative guide by Maureen Muchoki, Stephene and Michael Mwangi 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -38,7 +38,7 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 ### Resources
 
 ## Natural Language Processing (NLP)
-[Team Member 3 Name] will write this section -->
+Michael Mwangi will write this section -->
 
 ### Applications
 
