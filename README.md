@@ -30,12 +30,16 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 3. Try simple datasets like Iris or MNIST
 
 ## Neural Networks
-[Stephen] will write this section -->
+[Stephen Njuguna]
+*Neural Networks* are computational models inspired by the human brain, capable of learning patterns from data.
 
 ### Key Points
-
+- Consist of layers of nodes (neurons)  
+- Can model complex, non-linear relationships  
+- Foundation for deep learning
 
 ### Resources
+[Neural Network Basics](https://www.deeplearning.ai/)
 
 ## Natural Language Processing (NLP)
 Michael Mwangi will write this section -->
