@@ -1,6 +1,6 @@
 # Introduction to AI Concepts
 
-A collaborative guide by Maureen Muchoki, Stephene Njuguna, 
+A collaborative guide by Maureen Muchoki, Stephene, 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +13,7 @@ A collaborative guide by Maureen Muchoki, Stephene Njuguna,
 Artificial Intelligence (AI) is transforming every industry. This guide introduces key AI concepts that every student should know. Each section is contributed by a different team member.
 
 ## Machine Learning
-<Maureen Muchoki] will write this section --> 
+[Maureen Muchoki] will write this section --> 
 
 ### Why It Matters
 
@@ -22,7 +22,7 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 
 
 ## Neural Networks
-<!-- [Team Member 2 Name] will write this section -->
+[Stephen] will write this section -->
 
 ### Key Points
 
