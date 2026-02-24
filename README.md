@@ -14,13 +14,20 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 
 ## Machine Learning
 [Maureen Muchoki] 
+
 **Machine Learning (ML)** allows computers to learn from data and improve over time without being explicitly programmed. 
 
 ### Why It Matters
 
+- Powers recommendation systems (Netflix, YouTube)  
+- Enables predictive analytics  
+- Forms the backbone of AI applications  
 
 ### Getting Started
 
+1. Learn Python or R  
+2. Explore libraries like scikit-learn or TensorFlow  
+3. Try simple datasets like Iris or MNIST
 
 ## Neural Networks
 [Stephen] will write this section -->
