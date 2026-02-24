@@ -46,15 +46,28 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 [Michael Mwangi] will write this section -->
 
 ### Applications
+1.Chatbots
+2.Sentiment analysis 
+3.Language translation 
+4.Text summarization 
+5.Named Entity Recognition 
 
 ### Tools to Explore
+1.spaCy: industrial-strength NLP
+2.NLTK:classic toolkit gor text processing 
+3.Hugging Face Transformers: SOTA models like BERT
 
 ## Computer Vision
 
 ### Examples
+1.Facial recognition 
+2.Self-driving car navigation 
+3.Image classification 
 
 ### Getting Started
-
+1. Open CV:library for image processing
+2. TensorFlow/Keras:build image classification models
+3. Kaggle datasets: practice with real-world images
 ## Conclusion
 
 **AI** is a vast field with many exciting concepts. By exploring *ML, Neural Networks, NLP, and Computer Vision*, students gain foundational knowledge for future tech careers. This project also demonstrates collaborative workflow on GitHub using branches, commits, and pull requests.
