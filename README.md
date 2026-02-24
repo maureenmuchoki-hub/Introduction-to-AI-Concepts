@@ -48,6 +48,9 @@ A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi.
 ### Applications
 
 ### Tools to Explore
+- spaCy: industrial-strength NLP
+- NLTK: classic toolkit for text processing
+- Hugging Face Transformers: SOTA models like BERT
 
 ## Computer Vision
 
