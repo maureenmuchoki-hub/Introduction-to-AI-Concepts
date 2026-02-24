@@ -51,7 +51,10 @@ A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi.
 
 ## Computer Vision
 
-### Examples
+### Examples- Facial recognition
+- Self-driving car navigation
+- Image classification
+- Object detection
 
 ### Getting Started
 
