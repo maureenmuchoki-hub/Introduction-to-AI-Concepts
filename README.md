@@ -13,7 +13,7 @@ A collaborative guide by Maureen Muchoki, Stephene Njuguna,
 Artificial Intelligence (AI) is transforming every industry. This guide introduces key AI concepts that every student should know. Each section is contributed by a different team member.
 
 ## Machine Learning
-<!-- [Team Member 1 Name] will write this section --> 
+<Maureen Muchoki] will write this section --> 
 
 ### Why It Matters
 
@@ -45,4 +45,4 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 
 ## Conclusion
 
-**AI** is a vast field with many exciting concepts. By exploring ML, Neural Networks, NLP, and Computer Vision, students gain foundational knowledge for future tech careers. This project also demonstrates collaborative workflow on GitHub using branches, commits, and pull requests.
+**AI** is a vast field with many exciting concepts. By exploring *ML, Neural Networks, NLP, and Computer Vision*, students gain foundational knowledge for future tech careers. This project also demonstrates collaborative workflow on GitHub using branches, commits, and pull requests.
