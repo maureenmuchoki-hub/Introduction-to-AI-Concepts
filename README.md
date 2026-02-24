@@ -49,7 +49,6 @@ Michael Mwangi will write this section -->
 ### Tools to Explore
 
 ## Computer Vision
-[Team Member 4 Name] will write this section -->
 
 ### Examples
 
