@@ -31,6 +31,7 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 
 ## Neural Networks
 [Stephen Njuguna]
+
 *Neural Networks* are computational models inspired by the human brain, capable of learning patterns from data.
 
 ### Key Points
@@ -42,7 +43,7 @@ Artificial Intelligence (AI) is transforming every industry. This guide introduc
 [Neural Network Basics](https://www.deeplearning.ai/)
 
 ## Natural Language Processing (NLP)
-Michael Mwangi will write this section -->
+[Michael Mwangi] will write this section -->
 
 ### Applications
 
