@@ -44,7 +44,7 @@ A collaborative guide by Maureen Muchoki, Stephen and Michael Mwangi.
 
 ## Natural Language Processing (NLP)
 [Michael Mwangi] 
-Natural Language Processing (NLP)
+
 *NLP* stands for Natural Language Processing. It's a field of AI that deals with how computer understand, interpret and generate human language
 
 ### Applications
